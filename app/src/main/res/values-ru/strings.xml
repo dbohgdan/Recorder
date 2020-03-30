@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Запись экрана</string>
+    <string name="start_record">Начать запись</string>
+    <string name="stop_record">Остановить запись</string>
+</resources>
